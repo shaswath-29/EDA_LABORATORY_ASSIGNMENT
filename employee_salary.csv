@@ -1,0 +1,11 @@
+﻿EmployeeID,Name,Department,Age,Experiment,Salary
+101,John,HR,25,2,45000
+102,Smith,IT,30,,55000
+103,Alice,Finance,28,4,
+104,Bob,Marketing,35,8,65000
+105,Emma,IT,26,3,48000
+106,David,HR,,,
+107,Sophia,Finance,32,5,52000
+108,James,Marketing,,12,
+109,Olivia,IT,27,,49000
+110,Liam,HR,,7,
