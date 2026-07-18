@@ -1,3 +1,4 @@
+# Employee Salary EDA Assignment
 import pandas as pd
 
 #Task 1 - LOAD THE DATASET 
